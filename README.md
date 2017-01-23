@@ -11,7 +11,7 @@ This sample project shows:
 
 ## Configuration ##
 
-There are 2 settings you need to change for this demo to work. Open up `app/js/config.ts` and edit the following:
+There are 2 settings you need to change for this demo to work. Open up `app/config.ts` and edit the following:
 
 1. **cloud_name** - Should be change to the cloud name you received when you registered for a Cloudinary account.
 2. **upload_preset** - You should first "Enable unsigned uploads" in the ["Upload Settings"](https://cloudinary.com/console/settings/upload) of your Cloudinary console and assign the resulting preset name to that field. Note, you may want to tweak and modify the upload preset's parameters.
