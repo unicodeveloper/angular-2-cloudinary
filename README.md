@@ -36,7 +36,7 @@ The project creates a new NgModule, and depends on CloudinaryModule which is imp
 
 #### Routing ####
 
-The application routes are defined in [app/js/app.routing.ts](app/js/app.routing.ts)
+The application routes are defined in [app/app.routing.ts](app/js/app.routing.ts)
 
 The application has 2 routes:
 
