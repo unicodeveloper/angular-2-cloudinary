@@ -13,7 +13,7 @@ import {CloudinaryModule, CloudinaryConfiguration, provideCloudinary} from '@clo
 // Application modules
 import {AppComponent} from './app.component';
 import {PhotoListComponent} from './photo-list/photo-list.component';
-import {PhotoUploadComponent} from './photo-album/photo-upload.component';
+import {PhotoUploadComponent} from './photo-upload/photo-upload.component';
 import {PhotoAlbum} from './model/photo-album.service';
 import cloudinaryConfiguration from './config';
 import {routing} from './app.routing';
