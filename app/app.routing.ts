@@ -1,7 +1,7 @@
 import {ModuleWithProviders} from '@angular/core';
 import {Routes, RouterModule} from '@angular/router';
 import {PhotoListComponent} from './photo-list/photo-list.component';
-import {PhotoUploadComponent} from './photo-album/photo-upload.component';
+import {PhotoUploadComponent} from './photo-upload/photo-upload.component';
 
 const appRoutes: Routes = [
     {
