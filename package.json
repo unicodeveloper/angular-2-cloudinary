@@ -8,9 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server",
     "tsc": "tsc",
-    "tsc:w": "tsc -w",
-    "typings": "typings",
-    "postinstall": "typings install"
+    "tsc:w": "tsc -w"
   },
   "author": "",
   "license": "ISC",
@@ -20,8 +18,7 @@
     "@types/node": "^7.0.4",
     "concurrently": "^3.1.0",
     "lite-server": "^2.2.2",
-    "typescript": "^2.1.5",
-    "typings": "^2.1.0"
+    "typescript": "^2.1.5"
   },
   "dependencies": {
     "@angular/common": "^2.4.4",
